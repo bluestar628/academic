@@ -6,6 +6,5 @@ excerpt: 'This paper is about detecting union type confusion in Windows COM(Comp
 date: 2023-06-01
 venue: 'Usenix Security 2023'
 paperurl: ""
-citation: ""
 ---
 
